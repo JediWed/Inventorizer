@@ -1,4 +1,4 @@
-#Inventorizer
+# Inventorizer
 
 Inventorizer is a smart tool to track your inventory of your department, organization or your private inventory. You can create categories, items of any category and lend them. You can track when was an item lent, who lent it, when the item is expected back and a lot more.
 
